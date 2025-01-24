@@ -1,3 +1,3 @@
 Proyecto de python y mysql que permite consultar ciudades en idioma ingles
-
-https://raw.githubusercontent.com/Jod00/Busqueda-_de_ciudades/main/ui_buscaCiudades.png
+<span>![</span><span>interfaz grafica de el programa</span><span>]</span><span>(</span>
+<span>https://raw.githubusercontent.com/Jod00/Busqueda-_de_ciudades/main/ui_buscaCiudades.png</span><span>)</span>
